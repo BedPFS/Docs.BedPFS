@@ -2,22 +2,22 @@
 Info About BedPFS And How to Join, Make sure to Read The [Rules.](#rules)
 
 # Info
-*Main Website*: [BedPFS.krafterdev.xyz](https://bedpfs.krafterdev.xyz)
+*Main Website*: [BedPFS.net](https://bedpfs.net)
 
 ## How to Join
 **Java Edition:**
 Click on multiplayer, add server.
-- **Ip**: `IP NOT PUBLIC YET`
+- **Ip**: `mc.bedpfs.net`
 - **Name**: `BedPFS`
 
 **Bedrock Edition:**
 Click play, go to the Servers tab, and scroll to the bottom. Click Add Server.
-- **Ip**: `IP NOT PUBLIC YET`
+- **Ip**: `mc.bedpfs.net`
 - **Port**: `19132`
 - **Name**: `BedPFS`
 
 **Discord**
-- **Invite**: [BedPFS.krafterdev.xyz/discord](https://BedPFS.krafterdev.xyz/discord)
+- **Invite**: [BedPFS.net/discord](https://BedPFS.net/discord)
 
 ## Rules
 Rules For The BedPFS Discord And Server, Please Follow The Rules or You Will Be Ban.
@@ -96,15 +96,14 @@ Yes! BedPFS is For Bedrock And Java, So You Can Play With All Your Friends.
 ## Is BedPFS Free?
 Certainly! it's Completely Free to Play For Bedrock And Java. Whether Your on PC, macOS, Linux, Android, iOS, Fridge, it's Free!
 
-**Support**
-- [Support Email](mailto:support.BedPFS@proton.me)
+**Need Help? Contact Us**
+- [Email](mailto:support@bedpfs.net)
 
-- [Discord](https://bedpfs.krafterdev.xyz/discord/)
+- [Discord](https://bedpfs.net/discord/)
 
-- [Issue Forum](/org/issues/)
-
-
+**Or Open an issue on github**
+- [Open an issue](/org/issues/)
 
 _________________________________________________________ 
 
-<p>&copy; 2024 BedPFS, inc</p>
+&copy; 2024 BedPFS, inc
